@@ -37,7 +37,7 @@ Emit Explorer utilizes historical and prediction data to estimate the danger lev
 
 Emit Explorer includes a "Tree-pedia" section that offers interactive information about various trees and their significance in environmental restoration. Users can access essential details about trees that thrive in their selected region.
 
-
+<img src="./images/3.png">
 
 ### Social Media Integration
 
@@ -45,11 +45,16 @@ Our application encourages active contributions to the environment by providing 
 
 ### Awareness About the EMIT Project
 
-Emit Explorer dedicates a page to provide users with the latest updates about NASA's EMIT project. This feature offers insights into the project's goals, progress, and potential applications of the data collected by EMIT.
+Emit Explorer dedicated a page to provide users with the latest updates about NASA's EMIT project. This feature offers insights into the project's goals, progress, and potential applications of the data collected by EMIT.
 
+<img src="./images/4.png">
+
+## Infrastructure
+
+<img src="./images/7.png">
 
 ## Installation
-Certainly, here are the setup instructions for the Emit Explorer project:
+setup instructions for the Emit Explorer project:
 
 ## Backend Setup
 
@@ -86,27 +91,6 @@ Certainly, here are the setup instructions for the Emit Explorer project:
      npm install
      ```
 
-## Machine Learning Model Setup
-
-1. Set up your machine learning prediction engine according to its specific documentation and requirements. This may involve installing Python libraries and dependencies specific to your prediction model.
-
-## EMIT API Setup
-
-1. **Navigate to the `emit-api` folder**:
-   - Open your command line or terminal.
-   - Change the directory to the `emit-api` folder of the Emit Explorer project by using the `cd` command: `cd path/to/emit-api`
-
-2. **Install Dependencies**:
-   - Install the necessary Python dependencies for the EMIT API by running:
-     ```bash
-     pip install -r requirements.txt
-     ```
-
-3. **Run the EMIT API**:
-   - Start the EMIT API by executing the following command:
-     ```bash
-     uvicorn main:app --host 0.0.0.0 --port 8000 --reload
-     ```
 
 # Emit Explorer - Team Info
 
