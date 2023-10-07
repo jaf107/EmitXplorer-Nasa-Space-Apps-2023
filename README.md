@@ -98,7 +98,7 @@ Meet the dedicated team behind Emit Explorer:
 
 ## The Rocketeers
 
-### Noshin Samiha
+### Samiha Tahsin Noshin
 - **Role**: Team Lead
 - **Email**: bsse1107@iit.du.ac.bd
 
