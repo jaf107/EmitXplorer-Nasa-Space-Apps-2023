@@ -31,6 +31,8 @@ Once a location is selected, Emit Explorer provides users with access to real-ti
 
 Emit Explorer utilizes historical and prediction data to estimate the danger level of pollution at a selected location. This estimation includes a time limit prediction, helping users understand the potential environmental risks they may face.
 
+<img src="./images/2.jpg">
+
 ### Tree-pedia
 
 Emit Explorer includes a "Tree-pedia" section that offers interactive information about various trees and their significance in environmental restoration. Users can access essential details about trees that thrive in their selected region.
