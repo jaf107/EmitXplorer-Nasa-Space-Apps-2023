@@ -5,7 +5,7 @@ The project EmitXplorer is submitted by the Team - 'The Rocketeers' for the NASA
 
 Explore the Emit Explorer project by interacting with our interactive prototype on Canva:
 
-[Project Demo - Canva Prototype](https://www.canva.com/design/DAFtcDT5vuo/_qTzTfKTLVrzLqBwtUn9Zg/view?mode=prototype#sidebar)
+[Project Demo](https://www.canva.com/design/DAFtcDT5vuo/_qTzTfKTLVrzLqBwtUn9Zg/view?mode=prototype#sidebar)
 
 ## Introduction
 
