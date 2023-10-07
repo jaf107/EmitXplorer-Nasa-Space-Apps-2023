@@ -127,7 +127,7 @@ Meet the dedicated team behind Emit Explorer:
 - **Email**: bsse1120@iit.du.ac.bd
 
 ### Tasmia Zerin
-- **Role**: UI/UX Designer
+- **Role**: Frontend Developer
 - **Email**: bsse1128@iit.du.ac.bd
 
 ## Contact Us
