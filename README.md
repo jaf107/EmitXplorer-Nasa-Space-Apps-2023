@@ -123,15 +123,6 @@ Meet the dedicated team behind Emit Explorer:
 If you have any questions, suggestions, or would like to get in touch with our team, feel free to reach out to us via email.
 
 
-
-## Explore Emit Explorer
-
-1. **Access the Emit Explorer Frontend**:
-   - Open your web browser and access the Emit Explorer frontend by navigating to `http://localhost:3000` or the appropriate URL where your frontend is hosted.
-
-2. **Contribute and Enjoy**:
-   - Feel free to contribute to this project and join us in our mission to make every breath a testament to saving our planet.
-
 These instructions should help you set up the Emit Explorer project successfully. If you encounter any issues or have further questions, please don't hesitate to ask.
 
 Thank you for joining us on this journey to combat pollution and create a cleaner, healthier world with Emit Explorer! 🌍🚀 #EmitExplorer #CleanerPlanet
