@@ -104,6 +104,38 @@ Certainly, here are the setup instructions for the Emit Explorer project:
      uvicorn main:app --host 0.0.0.0 --port 8000 --reload
      ```
 
+# Emit Explorer - Team Info
+
+Meet the dedicated team behind Emit Explorer:
+
+## The Rocketeers
+
+### Noshin Samiha
+- **Role**: Team Lead
+- **Email**: bsse1107@iit.du.ac.bd
+
+### Abu Jafar Saifullah
+- **Role**: Backend Developer
+- **Email**: bsse1109@iit.du.ac.bd
+
+### Kazi Muktadir Ahmed
+- **Role**: Machine Learning Expert
+- **Email**: bsse1111@iit.du.ac.bd
+
+### Lutfar Rahman Alif
+- **Role**: UI/UX Designer
+- **Email**: bsse1120@iit.du.ac.bd
+
+### Tasmia Zerin
+- **Role**: UI/UX Designer
+- **Email**: bsse1128@iit.du.ac.bd
+
+## Contact Us
+
+If you have any questions, suggestions, or would like to get in touch with our team, feel free to reach out to us via email.
+
+
+
 ## Explore Emit Explorer
 
 1. **Access the Emit Explorer Frontend**:
