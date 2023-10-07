@@ -1,6 +1,12 @@
 # EmitXplorer-Nasa-Space-App-Challenge
 The project EmitXplorer is submitted by the Team - 'The Rocketeers' for the NASA Space Apps Challenge 2023.
 
+# Emit Explorer - Project Demo
+
+Explore the Emit Explorer project by interacting with our interactive prototype on Canva:
+
+[Project Demo - Canva Prototype](https://www.canva.com/design/DAFtcDT5vuo/_qTzTfKTLVrzLqBwtUn9Zg/view?mode=prototype#sidebar)
+
 ## Introduction
 
 Emit Explorer is a web application developed to address the critical issue of greenhouse gas concentration levels and environmental awareness. We have designed this application to cater to users of all age groups, providing an interactive platform for learning about social responsibilities and environmental risk factors through gamified actions. Emit Explorer empowers users to visualize, understand, and contribute to a cleaner, healthier world.
@@ -37,7 +43,6 @@ Our application encourages active contributions to the environment by providing 
 
 Emit Explorer dedicates a page to provide users with the latest updates about NASA's EMIT project. This feature offers insights into the project's goals, progress, and potential applications of the data collected by EMIT.
 
-![Community involvement in environmental actions](insert_image_link_here)
 
 ## Installation
 Certainly, here are the setup instructions for the Emit Explorer project:
