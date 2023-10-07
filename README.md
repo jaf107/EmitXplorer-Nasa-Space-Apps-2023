@@ -11,7 +11,7 @@ Explore the Emit Explorer project by interacting with our interactive prototype 
 
 Emit Explorer is a web application developed to address the critical issue of greenhouse gas concentration levels and environmental awareness. We have designed this application to cater to users of all age groups, providing an interactive platform for learning about social responsibilities and environmental risk factors through gamified actions. Emit Explorer empowers users to visualize, understand, and contribute to a cleaner, healthier world.
 
-<img src="./1.png">
+<img src="./images/1.png">
 
 ## Key Features
 
